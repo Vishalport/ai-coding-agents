@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": "u001",
+      "name": "Alice Johnson",
+      "email": "alice.johnson@moondive.io",
+      "role": "Admin",
+      "status": "active",
+      "joinedAt": "2024-01-15",
+      "password": "hashed_secret_1"
+    },
+    {
+      "id": "u002",
+      "name": "Bob Martinez",
+      "email": "bob.martinez@moondive.io",
+      "role": "Developer",
+      "status": "active",
+      "joinedAt": "2024-03-22",
+      "password": "hashed_secret_2"
+    },
+    {
+      "id": "u003",
+      "name": "Carol Lee",
+      "email": "carol.lee@moondive.io",
+      "role": "Designer",
+      "status": "inactive",
+      "joinedAt": "2024-05-10",
+      "password": "hashed_secret_3"
+    },
+    {
+      "id": "u004",
+      "name": "David Kim",
+      "email": "david.kim@moondive.io",
+      "role": "Developer",
+      "status": "active",
+      "joinedAt": "2024-07-01",
+      "password": "hashed_secret_4"
+    },
+    {
+      "id": "u005",
+      "name": "Eva Singh",
+      "email": "eva.singh@moondive.io",
+      "role": "QA Engineer",
+      "status": "pending",
+      "joinedAt": "2025-01-20",
+      "password": "hashed_secret_5"
+    }
+  ]
+}
